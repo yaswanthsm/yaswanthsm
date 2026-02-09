@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/YASWANTHSM007/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=YASWANTHSM007&theme=tokyonight" />
+    <img src="https://leetcard.jacoblin.cool/YASWANTHSM007?theme=dark&font=Baloo&ext=heatmap" />
   </a>
 </p>
 
