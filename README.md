@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/YASWANTHSM007/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=YASWANTHSM007&theme=tokyonight" />
   </a>
 </p>
 
