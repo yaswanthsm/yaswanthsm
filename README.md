@@ -50,9 +50,6 @@
   <a href="https://linkedin.com/in/yaswanth-s-m-0b7b77329/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="file:///E:/pthon/html/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-purple?style=flat-square">
-  </a>
 </p>
 
 ---
