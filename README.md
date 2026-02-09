@@ -44,6 +44,16 @@
 
 ---
 
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/YASWANTHSM007/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p>
