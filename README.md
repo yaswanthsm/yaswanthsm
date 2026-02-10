@@ -57,7 +57,11 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
-
+<p>
+  <a href="mailto:smyaswanth2007@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 ---
 
 ⭐️ From [yaswanthsm](https://github.com/yaswanthsm)
